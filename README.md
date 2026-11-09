@@ -98,7 +98,7 @@ analysis and visualisation.
 
 **Data Availability**
 
-The original sequencing data set is not currently included in the repository due 
+The original sequencing data set is not currently included in the repository due to
 data sharing regulations. 
 
 
