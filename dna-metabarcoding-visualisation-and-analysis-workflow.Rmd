@@ -142,7 +142,7 @@ leaf_litter <- c("KKLL3",
                  "MaxLL1", 
                  "FOLL2")
 
-#remove columns 1, 57-78 as to leave only count data for each sample
+#remove columns 1, 57-78 as to leave only count data for each sample - specific to THIS DATASET - ensure data follows structure of OTU: Reads for each sample: Taxa Classifications
 
 otu_counts <- DNA_Meta[ ,-c(1, 57:78)] 
 
